@@ -1,5 +1,6 @@
 ﻿# Ecommerce-App
 ## Live : **[E-Commerce App](https://ecommerce-client-mfmi.onrender.com)**
+(wait for some time so that it can load properly)
 
 ### Admin Credentials  
 Use this credential only to login as Admin
